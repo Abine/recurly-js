@@ -2418,7 +2418,7 @@ R.dom['subscribe_form'] = '<form class="recurly subscribe"><!--[if lt IE 7]><div
 // Compiled from src/dom/update_billing_info_form.jade
 //////////////////////////////////////////////////
 
-R.dom['update_billing_info_form'] = '<form class="recurly update_billing_info"><div class="server_errors none"></div><div class="contact_info"></div><div class="billing_info"></div><div class="footer"><button type="submit" class="submit">Update</button></div></form>';
+R.dom['update_billing_info_form'] = '<form class="recurly update_billing_info"><div class="server_errors none"></div><div class="contact_info"></div><div class="billing_info"></div><div class="footer"><button type="submit" class="submit btn btn-success btn-hg update_billing_info_button">Update</button></div></form>';
 
 //////////////////////////////////////////////////
 // Compiled from src/dom/one_time_transaction_form.jade

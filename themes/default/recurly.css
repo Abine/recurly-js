@@ -822,3 +822,7 @@
   color: #4183c4;
   text-transform: capitalize;
 }
+.recurly .update_billing_info_button {
+    margin-top: 10px;
+    float: right;
+}
